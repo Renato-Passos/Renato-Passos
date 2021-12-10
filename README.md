@@ -20,4 +20,4 @@ Now I'm getting the hang of developing amidst all available technologies, the on
 
 #### Working on
 
-Developing my  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  skills.
+Developing my  ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  skills.
